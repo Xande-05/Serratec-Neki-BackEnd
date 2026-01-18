@@ -1,6 +1,5 @@
 package com.neki.plataforma_aprimora_backend.domain;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import jakarta.persistence.Column;
