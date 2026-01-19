@@ -1,4 +1,4 @@
-# 🎫 Plataforma Aprimora - Backend
+# 🎫 Processo seletivo Neki - Backend
 
 Sistema de gerenciamento de eventos com autenticação JWT.
 
